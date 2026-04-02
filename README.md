@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://pedrowaap10.github.io" target="_blank">
+<a href="https://pedrowaap10-tech.github.io/pedrowaap10.github.io" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Portfólio-00D4AA?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/pedroramalho-45a59a395" target="_blank">
